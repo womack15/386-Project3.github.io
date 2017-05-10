@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1494210792,
+	"version": 1494390991,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,16 @@
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/enemysnake-sheet0.png",
+		"media/backgroundmusiccopy.m4a",
+		"media/backgroundmusiccopy.ogg",
+		"media/bittenbysnake.m4a",
+		"media/bittenbysnake.ogg",
+		"media/getacorn.m4a",
+		"media/getacorn.ogg",
+		"media/removedirtblock.m4a",
+		"media/removedirtblock.ogg",
+		"media/removedirtboard.m4a",
+		"media/removedirtboard.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
