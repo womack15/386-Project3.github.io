@@ -24188,12 +24188,12 @@ cr.behaviors.bound = function(runtime)
 	};
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Audio,
-	cr.plugins_.Mouse,
-	cr.plugins_.Sprite,
 	cr.plugins_.Text,
 	cr.plugins_.TiledBg,
 	cr.plugins_.Touch,
+	cr.plugins_.Audio,
+	cr.plugins_.Mouse,
+	cr.plugins_.Sprite,
 	cr.behaviors.Physics,
 	cr.behaviors.bound,
 	cr.behaviors.Bullet,
